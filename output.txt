@@ -1,0 +1,19 @@
+Opening file:  <_io.TextIOWrapper name='register.txt' mode='r' encoding='utf-8'>
+https://www.casino.my/tags/das-ist-casino-zerkalo/
+index of url in array: 821
+casino.my
+index of domain in array: 286
+Ip of a domain:  104.31.76.224
+IP isnt blocked in russian federation
+
+
+-------other output------
+
+
+Opening file:  <_io.TextIOWrapper name='register.txt' mode='r' encoding='utf-8'>
+https://bki.forlabs.ru/app/learning/103/studies/5051/tasks/1154
+URL insnt bloked in russian federation
+bki.forlabs.ru
+Domain isnt blocked in russian federation
+Ip of a domain:  172.67.162.105
+IP isnt blocked in russian federation
